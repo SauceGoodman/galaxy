@@ -5,16 +5,16 @@
 .theme-dark {
    --dplus-backdrop: url(https://i.imgur.com/PMmRrJB.jpg);
 
-  --dplus-accent-color-hue: 1000;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 60%;
+  --dplus-accent-color-hue: 560;
+  --dplus-accent-color-saturation: 50%;
+  --dplus-accent-color-lightness: 40%;
 
-  --dplus-foreground-color-hue-base: 310;
+  --dplus-foreground-color-hue-base: 1300;
   --dplus-foreground-color-hue-links: 197;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
-  --dplus-background-color-hue: 360;
+  --dplus-background-color-hue: 560;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 0.5;
   --dplus-background-color-alpha: 0.8;
